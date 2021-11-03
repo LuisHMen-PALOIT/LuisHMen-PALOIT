@@ -1,0 +1,27 @@
+{
+  "name": "automation_cardiff",
+  "version": "1.0.0",
+  "description": "Automation with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisHMen-PALOIT/LuisHMen-PALOIT.git"
+  },
+  "keywords": [
+    "Automation",
+    "Cypress"
+  ],
+  "author": "Luis H. Men",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisHMen-PALOIT/LuisHMen-PALOIT/issues"
+  },
+  "homepage": "https://github.com/LuisHMen-PALOIT/LuisHMen-PALOIT#readme",
+  "dependencies": {
+    "cypress": "^8.7.0"
+  }
+}
